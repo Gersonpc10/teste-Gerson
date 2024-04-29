@@ -1,0 +1,23 @@
+body {
+    background-color: #e95454;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: grid; 
+    place-items: center;
+}
+
+.container{
+    background-color: #d6ddce;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 20px;
+    width: 350px;
+    box-shadow: 4px 5px 10px rgba(218, 215, 215, 0.637);
+    margin-bottom: -30px;
+;}
+
+.aprovado{
+    color: green;
+}
+.reprovado{
+    color:#b62727;
+}

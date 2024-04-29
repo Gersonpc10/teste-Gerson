@@ -1,0 +1,29 @@
+.campo-texto {
+    margin: 24px 0;
+}
+
+.campo-texto label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 30px;
+}
+
+.campo-texto input {
+    background-color: #e4c6c6;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    font-size: 14px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 0.5rem;
+}
+.campo-texto button{
+    margin-top: 1rem;
+    background-color: green;
+    font-size: larger;
+    padding: 10px;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+}

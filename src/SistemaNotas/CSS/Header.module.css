@@ -1,0 +1,17 @@
+.header{
+    box-shadow: 4px 5px 30px rgba(218, 215, 215, 0.637);
+    border: solid 1px #e93c3c;
+    background-color: #68d61f;
+    border-radius: 30px;
+    margin-top: 15px;
+}
+.header p{
+    color: #080101f6;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 30px;  
+    text-align: center; 
+    
+
+}

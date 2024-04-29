@@ -1,0 +1,16 @@
+.botao{
+    background-color: #6278f7;
+    border-radius: 10px; /*borda do botao*/
+    font-weight: 700;  /*deixar cor mais escura*/
+    font-size: 18px; /*tamanho da letra*/
+    padding: 32px; /*tamanhop do botao*/
+    border: none;
+    cursor: pointer; /*aparecer uma mãozinha após passar o mouse por cima*/
+    color: white;
+    margin: 32px 0  /*posição do botao na pagina*/
+
+
+}
+.botao:hover{
+    color: red /*cor da fonte do botao após passar o mouse por cima*/
+}
